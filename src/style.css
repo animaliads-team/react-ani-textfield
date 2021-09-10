@@ -1,0 +1,12 @@
+* {
+  font-family: sans-serif;
+}
+
+ani-checkbox {
+  display: flex;
+  align-items: center;
+}
+
+span {
+  margin-left: 8px;
+}
